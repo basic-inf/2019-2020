@@ -17,7 +17,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Insegname
    * slide: [Google Slides](https://tinyurl.com/bi1819-00)
    <hr />
    
-2. [08/04/20] Computer, pensiero computazionale e strutture dati 
+2. [07/04/20] Computer, pensiero computazionale e strutture dati 
    * slide: [Google Slides](https://tinyurl.com/bi1819-01)
    * capitolo: [PDF](https://basic-inf.github.io/2019-2020/chapters/01.pdf) 
    <hr />
