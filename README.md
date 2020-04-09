@@ -52,11 +52,11 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Insegname
    <hr />
 
 10. [29/04/20] Le tecnologie informatiche nelle scienze umane
-   * capitolo: [PDF](https://basic-inf.github.io/2019-2020/chapters/09.pdf) 
-   <hr />
+    * capitolo: [PDF](https://basic-inf.github.io/2019-2020/chapters/09.pdf) 
+    <hr />
 
 11. [05/05/20] Wrap-up 
-   <hr />
+    <hr />
    
 
 ### Calendario
