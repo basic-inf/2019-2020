@@ -26,6 +26,37 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Insegname
    * slide: [Google Slides](https://tinyurl.com/bi1819-02)
    * capitolo: [PDF](https://basic-inf.github.io/2019-2020/chapters/02.pdf) 
    <hr />
+
+4. [14/04/20] Linguaggi di programmazione 
+   * capitolo: [PDF](https://basic-inf.github.io/2019-2020/chapters/03.pdf) 
+   <hr />
+
+5. [15/04/20] Cosa succede quando si clicca un un link: Il World Wide Web 
+   * capitolo: [PDF](https://basic-inf.github.io/2019-2020/chapters/04.pdf) 
+   <hr />
+
+6. [17/04/20] Cosa succede quando si clicca un un link: I protocolli di comunicazione 
+   * capitolo: [PDF](https://basic-inf.github.io/2019-2020/chapters/05.pdf) 
+   <hr />
+
+7. [21/04/20] Cosa succede quando si clicca un un link: Internet 
+   * capitolo: [PDF](https://basic-inf.github.io/2019-2020/chapters/06.pdf) 
+   <hr />
+
+8. [22/04/20] Cosa succede quando si clicca un un link: Trasferire informazioni su Internet 
+   * capitolo: [PDF](https://basic-inf.github.io/2019-2020/chapters/07.pdf) 
+   <hr />
+   
+9. [28/04/20] Cosa succede quando si clicca un un link: Le pagine web
+   * capitolo: [PDF](https://basic-inf.github.io/2019-2020/chapters/08.pdf) 
+   <hr />
+
+10. [29/04/20] Le tecnologie informatiche nelle scienze umane
+   * capitolo: [PDF](https://basic-inf.github.io/2019-2020/chapters/09.pdf) 
+   <hr />
+
+11. [05/05/20] Wrap-up 
+   <hr />
    
 
 ### Calendario
