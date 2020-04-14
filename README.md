@@ -27,7 +27,8 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Insegname
    * capitolo: [PDF](https://basic-inf.github.io/2019-2020/chapters/02.pdf) 
    <hr />
 
-4. [14/04/20] Linguaggi di programmazione 
+4. [14/04/20] Linguaggi di programmazione
+   * slide: [Google Slides](https://tinyurl.com/bi1819-03) 
    * capitolo: [PDF](https://basic-inf.github.io/2019-2020/chapters/03.pdf) 
    <hr />
 
