@@ -37,7 +37,8 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Insegname
    * capitolo: [PDF](https://basic-inf.github.io/2019-2020/chapters/04.pdf) 
    <hr />
 
-6. [17/04/20] Cosa succede quando si clicca un un link: I protocolli di comunicazione 
+6. [17/04/20] Cosa succede quando si clicca un un link: I protocolli di comunicazione  
+   * slide: [Google Slides](https://tinyurl.com/bi1819-05) 
    * capitolo: [PDF](https://basic-inf.github.io/2019-2020/chapters/05.pdf) 
    <hr />
 
