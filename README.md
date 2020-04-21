@@ -42,7 +42,8 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Insegname
    * capitolo: [PDF](https://basic-inf.github.io/2019-2020/chapters/05.pdf) 
    <hr />
 
-7. [21/04/20] Cosa succede quando si clicca un un link: Internet 
+7. [21/04/20] Cosa succede quando si clicca un un link: Internet
+   * slide: [Google Slides](https://tinyurl.com/bi1819-06)  
    * capitolo: [PDF](https://basic-inf.github.io/2019-2020/chapters/06.pdf) 
    <hr />
 
