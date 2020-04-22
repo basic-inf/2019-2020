@@ -48,6 +48,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Insegname
    <hr />
 
 8. [22/04/20] Cosa succede quando si clicca un un link: Trasferire informazioni su Internet 
+   * slide: [Google Slides](https://tinyurl.com/bi1819-07)  
    * capitolo: [PDF](https://basic-inf.github.io/2019-2020/chapters/07.pdf) 
    <hr />
    
