@@ -53,7 +53,11 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Insegname
    <hr />
    
 9. [28/04/20] Cosa succede quando si clicca un un link: Le pagine web
+   * slide: [Google Slides](https://tinyurl.com/bi1819-08) 
    * capitolo: [PDF](https://basic-inf.github.io/2019-2020/chapters/08.pdf) 
+   * materiale:
+     * [CSS Zen Garden](http://www.csszengarden.com/)
+     * [Esempio](https://basic-inf.github.io/2019-2020/material/example.html) di pagina HTML
    <hr />
 
 10. [29/04/20] Le tecnologie informatiche nelle scienze umane
