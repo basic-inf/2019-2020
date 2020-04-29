@@ -61,6 +61,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Insegname
    <hr />
 
 10. [29/04/20] Le tecnologie informatiche nelle scienze umane
+    * slide: [Google Slides](https://tinyurl.com/bi1819-09) 
     * capitolo: [PDF](https://basic-inf.github.io/2019-2020/chapters/09.pdf) 
     <hr />
 
