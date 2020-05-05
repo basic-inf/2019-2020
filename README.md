@@ -66,6 +66,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Insegname
     <hr />
 
 11. [05/05/20] Wrap-up 
+    * slide: [Google Slides](https://tinyurl.com/bi1819-10) 
     <hr />
    
 
